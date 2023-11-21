@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://c5kqld51nc7im"
+path="res://.godot/imported/THE BOLD FONT - FREE VERSION - 2023.ttf-e19cc3a5a492b4eeee2f86089b622c34.fontdata"
+
+[deps]
+
+source_file="res://PS_W3_Someone else's idea/Assets/Fonts/the_bold_font/THE BOLD FONT - FREE VERSION - 2023.ttf"
+dest_files=["res://.godot/imported/THE BOLD FONT - FREE VERSION - 2023.ttf-e19cc3a5a492b4eeee2f86089b622c34.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}

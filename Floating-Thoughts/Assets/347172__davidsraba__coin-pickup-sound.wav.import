@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bwaqa0b6ihc0i"
+path="res://.godot/imported/347172__davidsraba__coin-pickup-sound.wav-5479ef0f1249e1e06daac204597ec991.sample"
+
+[deps]
+
+source_file="res://PS_W3_Someone else's idea/Assets/347172__davidsraba__coin-pickup-sound.wav"
+dest_files=["res://.godot/imported/347172__davidsraba__coin-pickup-sound.wav-5479ef0f1249e1e06daac204597ec991.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
